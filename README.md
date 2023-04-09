@@ -38,7 +38,7 @@ python3 -m venv venv
 ```
 
 ```
-Для Win: source venv/Scripts/activate
+Для Win(cmd.exe): venv\Scripts\activate.bat
 ```
 
 Установить зависимости из файла requirements.txt:
