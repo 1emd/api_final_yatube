@@ -141,3 +141,6 @@ Response samples
 - Django 3.2.16
 - Djangorestframework 3.12.4
 - Djangorestframework-simplejwt 4.7.2
+
+### Автор:
+[Кирилл Хорошилов](https://github.com/1emd)
